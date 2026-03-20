@@ -1,4 +1,4 @@
-# ***Pathological knowledge-guided deep learning framework for urothelial carcinoma biomarker exploration and prognosis prediction***
+# ***The revised code will coming soon***
 
 © This code is made available for non-commercial academic purposes. 
 
